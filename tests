@@ -10,3 +10,4 @@ def chat(msg: str):
 def similar(a: str, b: str) -> bool:
     # ultra-basic matcher for deterministic mock
     return a.strip() == b.strip()
+
